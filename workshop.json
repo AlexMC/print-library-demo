@@ -1,4 +1,17 @@
 {
   "schema_version": 1,
-  "materials": []
+  "printer": {
+    "model": "Bambu Lab P1S"
+  },
+  "nozzle_mm": 0.4,
+  "build_plate": "Textured PEI",
+  "materials": [
+    {
+      "name": "Teal PLA",
+      "type": "PLA",
+      "brand": "Demo Filament Co.",
+      "color": "teal",
+      "notes": "demo stand-in"
+    }
+  ]
 }
