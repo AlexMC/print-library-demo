@@ -1,5 +1,7 @@
 # Print Library
 
+> **Demo library.** Everything here is synthetic demo content made by `scripts/create-demo-library.ts` in 3dhub: generated geometry and images, and fictional designers and sources standing in for downloaded models. Nothing was printed and nothing was downloaded.
+
 This repository is a library of 3D models and the prints you make from them. Every model lives in its own folder under `models/` with a `project.json` record; every change arrives as a pull request that the library check reviews.
 
 ## Add a model
