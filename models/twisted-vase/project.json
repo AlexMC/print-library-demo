@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "mdl-c286f838dac5",
+  "name": "twisted-vase",
+  "origin": {
+    "kind": "downloaded",
+    "source_url": null,
+    "site": null,
+    "designer": null,
+    "retrieved": "2026-09-05"
+  },
+  "license": {
+    "state": "unknown",
+    "name": null,
+    "flags": []
+  },
+  "versions": [
+    {
+      "id": "v1",
+      "kind": "upstream",
+      "date": "2026-09-05",
+      "files": [
+        {
+          "path": "original/twisted-vase.stl",
+          "sha256": "f1ce618cd0d02fed445ff0e08ab2b77ad35bd14d047fcd7c5dc2f6e40338b2c7",
+          "units": "mm",
+          "original_filename": "twisted-vase.stl"
+        }
+      ]
+    }
+  ]
+}
