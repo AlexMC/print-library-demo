@@ -29,6 +29,20 @@
           "original_filename": "twisted-vase.stl"
         }
       ]
+    },
+    {
+      "id": "v2",
+      "kind": "own",
+      "based_on": "v1",
+      "note": "Taller (150 mm), eight ribs instead of six, and twice the twist.",
+      "date": "2026-09-14",
+      "files": [
+        {
+          "path": "versions/v2/twisted-vase-v2.stl",
+          "sha256": "3e7ebfbd81e9b3775cb0b0948d962a2b379f7114c1d7f817c37209b2fcf37358",
+          "units": "mm"
+        }
+      ]
     }
   ]
 }
