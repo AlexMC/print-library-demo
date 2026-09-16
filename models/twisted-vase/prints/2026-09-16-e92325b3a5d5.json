@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "version": "v2",
+  "commit": "350015ea8595a94b32c98ed94c24cbc795d071da",
+  "date": "2026-09-16",
+  "outcome": "success",
+  "printer": "Bambu Lab P1S",
+  "nozzle_mm": 0.4,
+  "material": "Teal PLA",
+  "note": "Vase mode, 0.24 mm layers. Demo entry: the photo is a rendered image; no physical print was made.",
+  "photos": [
+    "prints/e92325b3a5d5/1.png"
+  ]
+}
