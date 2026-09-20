@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "mdl-10303be13c8e",
+  "name": "Twisted bowl (remix)",
+  "origin": {
+    "kind": "remix",
+    "source_url": null,
+    "site": null,
+    "designer": null,
+    "retrieved": null
+  },
+  "license": {
+    "state": "unknown",
+    "name": null,
+    "flags": []
+  },
+  "remix_of": {
+    "id": "mdl-c286f838dac5",
+    "slug": "twisted-vase",
+    "version": "v2",
+    "commit": "9e120dd5aeac9aa3b179d6a826aed5550633405f",
+    "attribution": {
+      "name": "Twisted vase",
+      "designer": "Ada Example (fictional demo designer)",
+      "source_url": "https://models.example/demo/twisted-vase",
+      "license": {
+        "state": "known",
+        "name": "CC BY 4.0",
+        "flags": [
+          "attribution"
+        ]
+      }
+    }
+  },
+  "versions": [
+    {
+      "id": "v1",
+      "kind": "remix",
+      "based_on": "twisted-vase@v2",
+      "note": "Remix of the v2 vase as a low fruit bowl: 66 mm tall, 12 ribs, gentle twist.",
+      "date": "2026-09-20",
+      "files": [
+        {
+          "path": "versions/v1/twisted-bowl.stl",
+          "sha256": "3c0d67eddf953f6f55f5099db2561589ebf7f4985e4c3a58350fee718f673da4",
+          "units": "mm"
+        }
+      ]
+    }
+  ]
+}
