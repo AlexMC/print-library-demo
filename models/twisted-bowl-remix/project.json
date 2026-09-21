@@ -10,9 +10,11 @@
     "retrieved": null
   },
   "license": {
-    "state": "unknown",
-    "name": null,
-    "flags": []
+    "state": "known",
+    "name": "CC BY 4.0",
+    "flags": [
+      "attribution"
+    ]
   },
   "remix_of": {
     "id": "mdl-c286f838dac5",
