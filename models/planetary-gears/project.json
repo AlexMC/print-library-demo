@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "mdl-43968b8716ac",
+  "name": "planetary-gears",
+  "origin": {
+    "kind": "original",
+    "source_url": null,
+    "site": null,
+    "designer": null,
+    "retrieved": null
+  },
+  "license": {
+    "state": "unknown",
+    "name": null,
+    "flags": []
+  },
+  "versions": [
+    {
+      "id": "v1",
+      "kind": "own",
+      "date": "2026-09-24",
+      "files": [
+        {
+          "path": "original/planetary-gears.stl",
+          "sha256": "241fc1c35eaebd0097d00315a8bfcd9045b09dd8402b622b6714fe29ee9196fe",
+          "units": "mm",
+          "original_filename": "planetary-gears.stl"
+        }
+      ]
+    }
+  ]
+}
