@@ -1,18 +1,20 @@
 {
   "schema_version": 1,
   "id": "mdl-43968b8716ac",
-  "name": "planetary-gears",
+  "name": "Herringbone planetary gears",
   "origin": {
     "kind": "original",
     "source_url": null,
     "site": null,
-    "designer": null,
+    "designer": "Print Library demo",
     "retrieved": null
   },
   "license": {
-    "state": "unknown",
-    "name": null,
-    "flags": []
+    "state": "known",
+    "name": "CC BY 4.0",
+    "flags": [
+      "attribution"
+    ]
   },
   "versions": [
     {
