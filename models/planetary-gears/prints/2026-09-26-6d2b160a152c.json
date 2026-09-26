@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "version": "v1",
+  "commit": "201e6d2edad29e1eec7fc0473cc846542f9db29f",
+  "date": "2026-09-26",
+  "outcome": "partial",
+  "printer": "Bambu Lab P1S",
+  "nozzle_mm": 0.4,
+  "material": "Teal PLA",
+  "note": "One planet fused to the ring; try 0.3 mm clearance. Demo entry: no physical print was made.",
+  "photos": []
+}
