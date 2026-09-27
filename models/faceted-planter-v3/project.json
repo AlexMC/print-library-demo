@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "mdl-c501733e690a",
+  "name": "faceted_planter_v3",
+  "origin": {
+    "kind": "downloaded",
+    "source_url": null,
+    "site": null,
+    "designer": null,
+    "retrieved": "2026-09-27"
+  },
+  "license": {
+    "state": "unknown",
+    "name": null,
+    "flags": []
+  },
+  "versions": [
+    {
+      "id": "v1",
+      "kind": "upstream",
+      "date": "2026-09-27",
+      "files": [
+        {
+          "path": "original/faceted_planter_v3.stl",
+          "sha256": "7ac6a7f54eaba5969e6aa62491d2de377e7d2f3c7bad33c990423c4cb0f88d8b",
+          "units": "mm",
+          "original_filename": "faceted_planter_v3.stl"
+        }
+      ]
+    }
+  ]
+}
