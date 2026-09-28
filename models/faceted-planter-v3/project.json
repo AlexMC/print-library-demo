@@ -1,18 +1,21 @@
 {
   "schema_version": 1,
   "id": "mdl-c501733e690a",
-  "name": "faceted_planter_v3",
+  "name": "Faceted planter",
   "origin": {
     "kind": "downloaded",
-    "source_url": null,
+    "source_url": "https://models.example/demo/faceted-planter",
     "site": null,
-    "designer": null,
+    "designer": "Bo Sample (fictional demo designer)",
     "retrieved": "2026-09-27"
   },
   "license": {
-    "state": "unknown",
-    "name": null,
-    "flags": []
+    "state": "known",
+    "name": "CC BY-SA 4.0",
+    "flags": [
+      "attribution",
+      "share_alike"
+    ]
   },
   "versions": [
     {
